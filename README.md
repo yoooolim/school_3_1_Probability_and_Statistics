@@ -23,5 +23,13 @@
 
 ![gausianpdf](./image/gaussianpdf.png)
 
+[주요코드]
+
+[결과화면]
+![result](./image/result.png)
+좌측, 위 = uniform한 pdf
+우측, 위 = gaussian pdf
+좌측, 아래 = gaussian cdf
+우측, 아래 = 이론적 gaussian cdf와 생성한 gaussian cdf의 비교
 
 #### 2.Histogram Equalization
