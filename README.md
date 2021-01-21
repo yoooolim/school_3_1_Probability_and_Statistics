@@ -14,8 +14,8 @@
 
 3. 수식을 이용해 uniform한 누적분포함수(cdf)를 gaussian 형태의 누적분포함수(cdf)로 변환
 
-![equation](./image/equation.png)
 ![gausiancdf](./image/gaussiancdf.png)
+![equation](./image/equation.png)
 
 4. 누적확률에 해당하는 z값을 찾기 위해 이진검색 기법을 활용해 gaussian 누적분포함수(cdf)의 역함수를 얻어냄
 
