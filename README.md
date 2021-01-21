@@ -5,7 +5,7 @@
 
 [전략] : 
 1. random number를 생성하는 rand함수를 이용해 uniform한 분포를 가지는 난수들 생성.
-![uniformpdf](./image/uniformpdf)
+![uniformpdf](./image/uniformpdf.png)
 
 
 #### 2.Histogram Equalization
