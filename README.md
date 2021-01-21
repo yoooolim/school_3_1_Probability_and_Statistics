@@ -1,9 +1,9 @@
 # school_3_1_Probability_and_Statistics
 
 #### 1.Gaussian distribution of Random variable
-[문제] : random number를 생성하는 함수를 이용하여 Gaussian 분포를 갖는 random variable을 생성하도록 변경
+######[문제] : random number를 생성하는 함수를 이용하여 Gaussian 분포를 갖는 random variable을 생성하도록 변경
 
-[전략] : 
+######[전략] : 
 1. random number를 생성하는 rand함수를 이용해 uniform한 분포를 가지는 난수들 생성
 
 ![uniformpdf](./image/uniformpdf.png)
@@ -23,13 +23,17 @@
 
 ![gausianpdf](./image/gaussianpdf.png)
 
-[주요코드]
+######[주요코드]
 
-[결과화면]
+######[결과화면]
+
 ![result](./image/result.png)
+
 좌측, 위 = uniform한 pdf
 우측, 위 = gaussian pdf
 좌측, 아래 = gaussian cdf
 우측, 아래 = 이론적 gaussian cdf와 생성한 gaussian cdf의 비교
+
+----------------------------------
 
 #### 2.Histogram Equalization
